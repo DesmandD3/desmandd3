@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./media/waving-hand.gif" width="40"> Hello! My name Is Desmand. 😁 </h1>
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
 <h3>Let's connect on LinkedIn</h3>
 <a href="https://www.linkedin.com/in/desmandking/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
