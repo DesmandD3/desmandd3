@@ -2,6 +2,10 @@
 
 <a href="https://www.linkedin.com/in/desmandking/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <h2>🔨 Technologies & Tools</h2>
+  
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 
 <!--
 **DesmandD3/desmandd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
