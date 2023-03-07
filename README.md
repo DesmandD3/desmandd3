@@ -7,7 +7,7 @@
   <h2>🔨 Technologies & Tools</h2>
   
  <div style="display:flex; flex-direction:row;">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
