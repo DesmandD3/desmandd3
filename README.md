@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./media/waving-hand.gif" width="40">Hello! My name Is Desmand. 😁 </h1>
+<h1 align="center"><img src="./media/waving-hand.gif" width="40"> Hello! My name Is Desmand. 😁 </h1>
 
 <a href="https://www.linkedin.com/in/desmandking/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
