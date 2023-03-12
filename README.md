@@ -8,7 +8,8 @@
 
 <div>
   <a href="https://blacksky-design-studio.itch.io">
-  <img src="./media/badgeColor.png"  height="100"/>
+    <p align="left">Try my game demos today!</p>
+  <img src="./media/badgeColor.png"  height="100" />
   </a>
 </div>
 
