@@ -48,6 +48,8 @@
   <img alt="Expo" src="https://img.shields.io/badge/-expo-navy?style=for-the-badge&logo=expo">
   <img alt="Next Js" src="https://img.shields.io/badge/-next_js-lightblue?style=for-the-badge&logo=Next.js">
 </div>
+<br>
+<br>
 <img src='./media/matrix.gif' alt="The Matrix" height="100" width="1000" align="center">
 <!--
 **DesmandD3/desmandd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
