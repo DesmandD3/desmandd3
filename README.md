@@ -12,7 +12,7 @@
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
   
-  <h2>🔨 Technologies & Tools</h2>
+  <h2 align="center">🔨 Technologies & Tools</h2>
   
  <div style="display:flex; flex-direction:row;">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
@@ -23,11 +23,15 @@
   <img alt="iOS" src="https://img.shields.io/badge/-ios-black?style=for-the-badge&logo=ios">
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
   <img alt="Swift" src="https://img.shields.io/badge/-swift-orange?style=for-the-badge&logo=swift">
-  <img alt="Scrum" src="https://img.shields.io/badge/-scrum-green?style=for-the-badge">
+  <img alt="Scrum" src="https://img.shields.io/badge/-scrum-darkgreen?style=for-the-badge">
   <img alt="Xcode" src="https://img.shields.io/badge/-xcode-purple?style=for-the-badge&logo=Xcode">
   <img alt="Figma" src="https://img.shields.io/badge/-figma-yellow?style=for-the-badge&logo=figma">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub">
   <img alt="Css" src="https://img.shields.io/badge/-Css-yellow?style=for-the-badge&logo=css3">
+  <img alt="net" src="https://img.shields.io/badge/-net-magenta?style=for-the-badge&logo=.net">
+  <img alt="Trello" src="https://img.shields.io/badge/-trello-blue?style=for-the-badge&logo=trello">
+  <img alt="Itch.io" src="https://img.shields.io/badge/-itch.io-grey?style=for-the-badge&logo=itch.io">
+  <img alt="React" src="https://img.shields.io/badge/-react-crimson?style=for-the-badge&logo=react">
 </div>
 <!--
 **DesmandD3/desmandd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
