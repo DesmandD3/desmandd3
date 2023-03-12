@@ -8,7 +8,7 @@
 
   <a href="https://blackskydesignstudio.com/dk-portfolio/">
     <p>Enter the matrix to view my design portfolio</p>
-  <img src="./media/matrix.gif" alt="The Matrix" width="50" />
+  <img src='./media/matrix.gif' alt="The Matrix" />
   </a>
 
 <div align="center">
