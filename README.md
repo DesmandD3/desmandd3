@@ -8,7 +8,7 @@
 
   <a href="https://blackskydesignstudio.com/dk-portfolio/">
     <p>Enter the matrix to view my design portfolio</p>
-  <img src='./media/matrix.gif' alt="The Matrix">
+ 
   </a>
 
 <div align="center">
@@ -46,7 +46,10 @@
   <img alt="React" src="https://img.shields.io/badge/-react-crimson?style=for-the-badge&logo=react">
   <img alt="Eclipse" src="https://img.shields.io/badge/-eclipse_ide-purple?style=for-the-badge&logo=eclipseide">
   <img alt="Slack" src="https://img.shields.io/badge/-slack-orange?style=for-the-badge&logo=slack">
+  <img alt="Expo" src="https://img.shields.io/badge/-expo-navy?style=for-the-badge&logo=expo">
+  <img alt="Next Js" src="https://img.shields.io/badge/-next_js-lightblue?style=for-the-badge&logo=Next.js">
 </div>
+<img src='./media/matrix.gif' alt="The Matrix" height="100" width="1000" align="center">
 <!--
 **DesmandD3/desmandd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
