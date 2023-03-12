@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=0BF72C&width=435&lines=Multi-Talented+Creative+Technologist" alt="Typing SVG" /></a>
 </div>
 
+<p>Creation drives me, design and its endless possibilities excite me, and innovation never ceases to astound me. I’m dedicated to three key disciplines: design principles, software development, and Agile leadership. As a certified Scrum Master, I believe in the Scrum Framework and its possibilities for innovation in the workplace. Designing, capturing, and creating digital experiences is now what drives me.</p>
+
 <div align="right">
 <h3>Let's connect on LinkedIn</h3>
 <a href="https://www.linkedin.com/in/desmandking/">
@@ -25,6 +27,7 @@
   <img alt="Xcode" src="https://img.shields.io/badge/-xcode-purple?style=for-the-badge&logo=Xcode">
   <img alt="Figma" src="https://img.shields.io/badge/-figma-yellow?style=for-the-badge&logo=figma">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub">
+  <img alt="Css" src="https://img.shields.io/badge/-Css-yellow?style=for-the-badge&logo=css3">
 </div>
 <!--
 **DesmandD3/desmandd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
