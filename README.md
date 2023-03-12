@@ -6,6 +6,10 @@
 
 <p>Creation drives me, design and its endless possibilities excite me, and innovation never ceases to astound me. I’m dedicated to three key disciplines: design principles, software development, and Agile leadership. As a certified Scrum Master, I believe in the Scrum Framework and its possibilities for innovation in the workplace. Designing, capturing, and creating digital experiences is now what drives me.</p>
 
+<div>
+  <img src="./media/badgeColor.png"  height="100"/>
+</div>
+
 <div align="right">
 <h3>Let's connect on LinkedIn</h3>
 <a href="https://www.linkedin.com/in/desmandking/">
