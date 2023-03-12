@@ -18,12 +18,13 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="iOS" src="https://img.shields.io/badge/-ios-black?style=for-the-badge&logo=ios">
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
   <img alt="Swift" src="https://img.shields.io/badge/-swift-orange?style=for-the-badge&logo=swift">
   <img alt="Scrum" src="https://img.shields.io/badge/-scrum-green?style=for-the-badge">
   <img alt="Xcode" src="https://img.shields.io/badge/-xcode-purple?style=for-the-badge&logo=Xcode">
   <img alt="Figma" src="https://img.shields.io/badge/-figma-yellow?style=for-the-badge&logo=figma">
-  <img alt="iOS" src="https://img.shields.io/badge/-ios-black?style=for-the-badge&logo=ios">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub">
 </div>
 <!--
 **DesmandD3/desmandd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
