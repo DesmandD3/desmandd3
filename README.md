@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://blackskydesignstudio.com/dk-portfolio/">
     <p>Enter the matrix to view my design portfolio</p>
-  <img src="./media/matrix.gif" alt="The Matrix" />
+  <img src="./media/matrix.gif" alt="The Matrix" height="50" />
   </a>
 </div>
 
@@ -19,8 +19,6 @@
   <img src="./media/badgeColor.png" height="65" />
   </a>
 </div>
-
-
 
 <div align="right">
 <h3>Let's connect on LinkedIn</h3>
