@@ -37,9 +37,9 @@
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
   
-  <h2 align="center">🔨 Technologies & Tools</h2>
+  <h2 align="center">🔨 Technologies & Tools That I Use</h2>
   
- <div style="display:flex; flex-direction:row;">
+ <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
