@@ -8,6 +8,7 @@
 
   <a href="https://blackskydesignstudio.com/dk-portfolio/">
     <p>Click to view my design portfolio</p>
+    <img src="./media/hall.png" height="150" />
   </a>
 
 <div align="center">
