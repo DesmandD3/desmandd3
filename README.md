@@ -6,15 +6,17 @@
 
 <p>Creation drives me, design and its endless possibilities excite me, and innovation never ceases to astound me. I’m dedicated to three key disciplines: design principles, software development, and Agile leadership. As a certified Scrum Master, I believe in the Scrum Framework and its possibilities for innovation in the workplace. Designing, capturing, and creating digital experiences is now what drives me.</p>
 
-  <a href="https://blackskydesignstudio.com/dk-portfolio/">
-    <p>Click to view my design portfolio</p>
-    <img src="./media/hall.png" height="100" />
-  </a>
-
-<div align="center">
+<div>
   <a href="https://blacksky-design-studio.itch.io">
     <p>Try my game demos today!</p>
   <img src="./media/badgeColor.png" height="65" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://blackskydesignstudio.com/dk-portfolio/" >
+    <p>Click to view my design portfolio</p>
+    <img src="./media/hall.png" height="200"/>
   </a>
 </div>
 
