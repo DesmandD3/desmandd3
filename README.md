@@ -7,6 +7,11 @@
 <p>Creation drives me, design and its endless possibilities excite me, and innovation never ceases to astound me. I’m dedicated to three key disciplines: design principles, software development, and Agile leadership. As a certified Scrum Master, I believe in the Scrum Framework and its possibilities for innovation in the workplace. Designing, capturing, and creating digital experiences is now what drives me.</p>
 
 <table align="center">
+  <thead>
+        <tr>
+            <th colspan="2">Links to my work</th>
+        </tr>
+    </thead>
 <tr>
   
 <td align="center">
