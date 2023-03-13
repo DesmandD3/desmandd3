@@ -8,7 +8,7 @@
 
   <a href="https://blackskydesignstudio.com/dk-portfolio/">
     <p>Click to view my design portfolio</p>
-    <img src="./media/hall.png" height="95" style="border-radius:60;" />
+    <img src="./media/hall.png" height="100" />
   </a>
 
 <div align="center">
