@@ -24,7 +24,7 @@
   
 <td align="center">
  <a href="https://blackskydesignstudio.com/dk-portfolio/" >
-    <p>Click to view my design portfolio</p>
+    <p>Design portfolio at the end of the hall...</p>
     <img src="./media/hall.png" height="95"/>
   </a>
 </td>
