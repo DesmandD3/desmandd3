@@ -23,7 +23,7 @@
 
   
 <td align="center">
- <a href="https://blackskydesignstudio.com/dk-portfolio/" >
+ <a href="https://blacksky-design-studio.itch.io" >
     <p>Design portfolio at the end of the hall...</p>
     <img src="./media/hall.png" height="95"/>
   </a>
